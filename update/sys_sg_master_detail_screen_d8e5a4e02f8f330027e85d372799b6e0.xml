@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles>itil</application_roles>
+        <available_offline>false</available_offline>
+        <data_item display_value="Incident - Active and P1 ">8a63a0e02f8f330027e85d372799b6e5</data_item>
+        <description>Open incidents - Active and P1</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="bell">80e56c242f8f330027e85d372799b634</icon>
+        <name>Open incidents</name>
+        <order>10</order>
+        <parent>ce5ea79c2fcb330027e85d372799b6af</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-31 09:58:08</sys_created_on>
+        <sys_id>d8e5a4e02f8f330027e85d372799b6e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open incidents</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_d8e5a4e02f8f330027e85d372799b6e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-31 09:58:08</sys_updated_on>
+    </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d8e5a4e02f8f330027e85d372799b6e0"/>
+</record_update>
